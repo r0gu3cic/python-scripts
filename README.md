@@ -7,4 +7,4 @@ Scripts for DigitalOcean have *gh_* at the start of a script name
 
 ## Usage
 
-Run the script that you like/need :smiley:
+Run the script that you like/need, make sure to check the variables first before running :smiley:
